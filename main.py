@@ -1,4 +1,2 @@
-x=5
-y=10
-ans=x+y+3
-print(x+y)
+Scores=[60, 65, 70, 80, 90, 100]
+print(Scores(0, -1))
